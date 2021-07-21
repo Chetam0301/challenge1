@@ -1,0 +1,27 @@
+h1{
+    color: cyan;
+}
+.section{
+    padding: 5%;
+    background-color: #fff;
+}
+.section1{
+    color: yellowgreen;
+}
+.section2{
+    color: grey;
+}
+.container-fluid{
+}
+.row{
+    padding: 1% 5%;
+}
+.col-lg-6{
+    padding: 3% 5%;
+}
+.section3{
+    background-color: teal;
+}
+.section4{
+    background-color: turquoise;
+}
